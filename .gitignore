@@ -2,5 +2,4 @@ node_modules/
 types/
 types_rollup/
 api_extractor_misc/
-models/
 dist/
